@@ -1,0 +1,14 @@
+.turkey,
+.dinner {
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', sans-serif;
+}
+
+.turkey {
+    background-color: black;
+    color: white;
+}
+
+.dinner {
+    background-color: yellow;
+}
